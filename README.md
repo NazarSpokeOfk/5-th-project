@@ -13,7 +13,7 @@
 
 All received data comes from the Server, this means that the code is asynchronous.
 The API that is used in this web application is https://developer.marvel.com/account.
-In the MarvelService component, in the MarvelService file, on line 4, a unique developer API key is used.
+In the service component, in the MarvelService file, on line 4, a unique developer API key is used.
 You may need to register your developer profile and replace this API key with yours.
 
 **You Can**<br/>
