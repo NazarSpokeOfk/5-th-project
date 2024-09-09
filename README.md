@@ -32,7 +32,8 @@ This web application contains information about Marvel superheroes.
 1. Make sure that you have the React library installed on your PC. Here is the full instruction - <br/> https://create-react-app.dev/docs/getting-started/ <br/>
 2.make sure that you have the project hierarchy built correctly. <br/>
 3.you will need to create react-application, then go to the project directory in the terminal. See the instructions for creating in the first point. <br/>
-4.Then, run the web application, and start using it.
+4.Then, run the web application, and start using it.<br/>
+5.You should use **npm i sass** in your project
 
 **Optional Instructions**<br/>
 
